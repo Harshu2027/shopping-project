@@ -25,19 +25,32 @@ Created a Pull Request again and resolved the conflicts in the order.txt and mer
 **SUBMISSION: SCREENSHOTS OF THE PROCEDURE AND LOG FILES**
 
 Roles taken to complete the task:
-**Aditya Rao:**                                                                          **Sayana Harshini:**
-Cloned repository to local system.                                                       Created new repository and sent the collaboration request.
-created files orders.txt                                                                 created files products.txt
-added initial info into the file                                                         added initial info into the file
-Created branch update-orders.                                                            Created branch add-products.
-Added sample order entries in orders.txt.                                                Added sample order entries in products.txt.
-Commited and pushed the  changes.                                                        Commited and pushed the  changes.
-                                                                                         Created a Pull Request
-resolved conflicts in orders.txt                                                         viewed the changes in the hub and accepted the changes during merge.
-new pull request and merged the branches.
-Used git reset to undo the last commit (local change).                                   Again viewed the changes and viewed the log files
-Used git revert to undo a commit while preserving history.                               Compared the previous history with the reverted changes and updated logs.
-updated the info with final commit.
+**Aditya Rao:**
+Cloned repository to local system.
+Created file orders.txt.
+Added initial information into the file.
+Created branch update-orders.
+Added sample order entries in orders.txt.
+Committed and pushed the changes.
+Resolved conflicts in orders.txt.
+Created a new pull request and merged the branches.
+Used `git reset` to undo the last commit (local change).
+Used `git revert` to undo a commit while preserving history.
+Updated the information with the final commit.
+
+**Sayana Harshini**
+
+Created a new repository and sent the collaboration request.
+Created file products.txt.
+Added initial information into the file.
+Created branch add-products.
+Added sample product entries in products.txt.
+Committed and pushed the changes.
+Created a Pull Request.
+Viewed the changes in GitHub and accepted the changes during merge.
+Viewed the changes again and checked the log files.
+Compared the previous history with the reverted changes and updated logs.
+
 
 <img width="700" height="504" alt="image" src="https://github.com/user-attachments/assets/8a54ea25-d8b4-47ef-9679-34de7dc0a4a9" />
 <img width="748" height="292" alt="image" src="https://github.com/user-attachments/assets/b011f9c8-7222-4d00-af59-995f86b8b894" />
