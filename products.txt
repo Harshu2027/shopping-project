@@ -1,3 +1,4 @@
 Samsung s24, 1,60,000, India
 Apple air 11, 1,43,000, USA
 Xiaomi 12, 1,23,000, China
+Vivo 13, 1,40,000, China
