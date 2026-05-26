@@ -27,6 +27,7 @@ Created a Pull Request again and resolved the conflicts in the order.txt and mer
 Roles taken to complete the task:
 
 **Aditya Rao:**
+
 Cloned repository to local system.
 Created file orders.txt.
 Added initial information into the file.
@@ -35,11 +36,12 @@ Added sample order entries in orders.txt.
 Committed and pushed the changes.
 Resolved conflicts in orders.txt.
 Created a new pull request and merged the branches.
-Used `git reset` to undo the last commit (local change).
-Used `git revert` to undo a commit while preserving history.
+Used git reset to undo the last commit (local change).
+Used git revert to undo a commit while preserving history.
 Updated the information with the final commit.
 
-**Sayana Harshini**
+
+**Sayana Harshini:**
 
 Created a new repository and sent the collaboration request.
 Created file products.txt.
