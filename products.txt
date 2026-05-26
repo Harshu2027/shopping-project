@@ -1,5 +1,0 @@
-101,Wireless Mouse,799,Electronics
-102,Bluetooth Speaker,1499,Electronics
-103,Notebook,120,Stationery
-104,Water Bottle,350,Home
-105,Gaming Keyboard,2499,Electronics
