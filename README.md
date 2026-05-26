@@ -1,38 +1,43 @@
-Git Workflow for Shopping Project (Multiple Developers)
+**Git Workflow for Shopping Project (Multiple Developers)**
 Team size-2
 Members: Aditya Rao (23B81A05K3), Sayana Harshini (23B81A05L6)
-created a repository named shopping-project
-cloned the repository to our local systems
+1) created a repository named shopping-project
+2) cloned the repository to our local systems
+3) Created files:products.txt -> Member1 and orders.txt-> Member2
+4) Added initial product data into products.txt with 3 fields.
+5) Commited with initial commit and pushed to main.
+6) Add Products
+   Created new branch add-products.
+   Added 2 new products to products.txt.
+   Commited and pushed the  changes.
+   Create a Pull Request in the hub and resolved conflicts in the products.txt
+7) Order Updates
+Created a new branch update-orders.
+Added sample order entries in orders.txt.
+Commited and pushed the changes.
+Created a Pull Request again and resolved the conflicts in the order.txt and merged them.
+8) Merged both Pull Requests into main.
+9) Reset & Revert commands
+   Used git reset to undo the last commit.
+   Made a valid commit again.
+   Used git revert to undo a commit while history is still available.
 
+**SUBMISSION: SCREENSHOTS OF THE PROCEDURE AND LOG FILES**
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Roles taken to complete the task:
+**Aditya Rao:**                                                                          **Sayana Harshini:**
+Cloned repository to local system.                                                       Created new repository and sent the collaboration request.
+created files orders.txt                                                                 created files products.txt
+added initial info into the file                                                         added initial info into the file
+Created branch update-orders.                                                            Created branch add-products.
+Added sample order entries in orders.txt.                                                Added sample order entries in products.txt.
+Commited and pushed the  changes.                                                        Commited and pushed the  changes.
+                                                                                         Created a Pull Request
+resolved conflicts in orders.txt                                                         viewed the changes in the hub and accepted the changes during merge.
+new pull request and merged the branches.
+Used git reset to undo the last commit (local change).                                   Again viewed the changes and viewed the log files
+Used git revert to undo a commit while preserving history.                               Compared the previous history with the reverted changes and updated logs.
+updated the info with final commit.
 
 <img width="700" height="504" alt="image" src="https://github.com/user-attachments/assets/8a54ea25-d8b4-47ef-9679-34de7dc0a4a9" />
 <img width="748" height="292" alt="image" src="https://github.com/user-attachments/assets/b011f9c8-7222-4d00-af59-995f86b8b894" />
