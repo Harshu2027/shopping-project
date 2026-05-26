@@ -1,3 +1,5 @@
 Samsung s24, 1,60,000, India
 Apple air 11, 1,43,000, USA
 Xiaomi 12, 1,23,000, China
+Nobody Phone 10A, 2,34,000, India
+TriFold 13 Series, 2,56,890, China
